@@ -31,11 +31,7 @@ python remove_empty_folders.py
   
 5. **Summary in Log File:**
    - The log file provides a summary of the cleaning process, including paths of deleted empty folders and counts of empty and used directories.
-  
-6. **Execution:**
-   - To execute the script, run `python script.py` in the desired directory to initiate the cleaning process.
 
 The script provides a convenient way to remove unused directories, optimizing folder structures and enhancing overall organization. It also offers transparency by logging deleted empty folders for reference.
 
-## Log Output
-The log file (`deleted_directories_log.txt`) contains the paths of deleted empty folders and a summary of the cleaning process.
+⚠️ Don't execute this code if you don't understand it!
